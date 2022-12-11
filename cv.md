@@ -2,6 +2,7 @@
 ### Contact information:
 + **E-mail:** m.prygunov@list.ru
 + **Telegram:** @prygunov
+
 --- 
 ### About Me:
 I am 28 years old, I work as a content manager and interested in web development as a hobby for now.
@@ -12,6 +13,7 @@ My goal is to gain enough skills for a full stack development, so I could make m
 + Front-end basics (HTML, CSS, Javascript)
 +  Windows OS
 +   Editors: Notepad++, VSCode
+
 ---
 ### Code example:
 ```
@@ -23,6 +25,7 @@ function spinalCase(str) {
 ---
 ### Courses:
 +   freeCodeCamp
+
 ---
 ### Languages:
 -   **Russian**  - native speaker
