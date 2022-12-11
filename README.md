@@ -1,1 +1,1 @@
-https://prygunovm.github.io/rsschool-cv/cv
+https://prygunovm.github.io/rsschool-cv/
