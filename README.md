@@ -1,1 +1,1 @@
-# rsschool-cv
+https://prygunovm.github.io/rsschool-cv/cv
